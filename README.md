@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Boora</h1>
 <h3 align="center">Frontend Developer | Building Clean, Scalable & Interactive Web Experiences</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehaboora&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me  
