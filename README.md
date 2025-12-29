@@ -31,7 +31,7 @@ I enjoy turning ideas into real-world digital experiences using clean code, smoo
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase" />
 </p>
 
 ---
