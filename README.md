@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="[Web%20Development%20Animation.gif](https://pin.it/3ACfZQY68)" width="350" />
-</p>
-
----
-
 ## 🚀 About Me  
 
 I’m a **Frontend Developer** passionate about building **modern, responsive, and user-focused web applications**.  
