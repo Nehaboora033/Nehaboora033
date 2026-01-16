@@ -25,7 +25,43 @@
       </p>
     </td>
     <td width="50%">
-      Right content
+     <p align="center"> ⚡ Skills</p>
+      <table align="center">
+  <tr>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=html" width="40"/>
+    </td>
+     <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=css" width="40"/>
+    </td>
+     <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=sass" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=js" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=figma" width="40"/>
+    </td>
+     <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=vite" width="40"/>
+    </td>
+      <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=react" width="40"/>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
