@@ -61,6 +61,17 @@
       <img src="https://skillicons.dev/icons?i=react" width="40"/>
     </td>
   </tr>
+         <tr>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40"/>
+    </td>
+    <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=github" width="40"/>  
+    </td>
+  </tr>
 </table>
     </td>
   </tr>
