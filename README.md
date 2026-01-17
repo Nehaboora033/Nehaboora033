@@ -5,11 +5,10 @@
     style="max-width: 100%; height: auto;"
   />
 </p>
-
 <H1 align="center">
   Neha Boora
 </H1>
-
+<hr/>
 <table width="100%">
   <tr>
     <td width="60%">
@@ -24,10 +23,10 @@
         ⣿⣿ 💻 Passionate about clean, maintainable code
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" style="padding:10px;>
      <p align="center"> ⚡ Skills</p>
       <table align="center">
-  <tr>
+      <tr>
     <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
       <img src="https://skillicons.dev/icons?i=html" width="40"/>
     </td>
@@ -71,8 +70,33 @@
     <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
       <img src="https://skillicons.dev/icons?i=github" width="40"/>  
     </td>
+   <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40"/>  
+    </td>
+  <td align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+      <img src="https://skillicons.dev/icons?i=netlify" width="40"/>  
+    </td>
+  </tr>
+     <tr>
+    <td  colspan="2"  align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP Badge" />
+    </td>
+    <td colspan="2" align="center" style="border:2px solid #ccc; padding:10px; border-radius:8px;">
+     <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Badge" />
+    </td>
   </tr>
 </table>
     </td>
   </tr>
 </table>
+<hr/>
+<h1 align="center">My Github Status </h1>
+<table width="100%" style="border:0;">
+  <tr>
+    <td align="center">hello
+    </td>
+    <td align="center">me</td>
+    <td align="center">can</td>
+  </tr>
+</table>
+
