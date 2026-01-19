@@ -91,12 +91,4 @@
 </table>
 <hr/>
 <h1 align="center">My Github Status </h1>
-<table width="100%" style="border:0;">
-  <tr>
-    <td align="center">hello
-    </td>
-    <td align="center">me</td>
-    <td align="center">can</td>
-  </tr>
-</table>
 
