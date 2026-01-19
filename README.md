@@ -6,7 +6,7 @@
   />
 </p>
 <H1 align="center">
-  Neha Boora
+  Front End Developer
 </H1>
 <hr/>
 <table width="100%">
