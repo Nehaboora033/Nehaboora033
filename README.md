@@ -92,3 +92,23 @@
 <hr/>
 <h1 align="center">My Github Status </h1>
 
+<table>
+  <tr>
+    <td width="60%">
+       <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nehaboora033&show_icons=true&theme=dark&hide_border=true" 
+    alt="GitHub Stats" 
+    width="600"
+  />
+    </td>
+    <td width="50%">
+       <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehaboora033&layout=compact&theme=dark&hide_border=true" 
+    alt="Top Languages" 
+    width="400"
+  />
+    </td>
+  </tr>
+</table>
+ 
+ 
