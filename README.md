@@ -91,7 +91,6 @@
 </table>
 <hr/>
 <h1 align="center">My Github Status </h1>
-
 <table>
   <tr>
     <td width="60%">
