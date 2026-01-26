@@ -1,10 +1,11 @@
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
     alt="profile image"
     style="max-width: 100%; height: auto;"
-  />
-</p>
+  /> -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width:100%;height:auto"/> -->
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="progile" style="max-width:100%;height:auto"/>
 <H1 align="center">
   Front End Developer
 </H1>
